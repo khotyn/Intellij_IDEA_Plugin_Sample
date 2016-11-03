@@ -1,0 +1,1 @@
+# Intellij_IDEA_Plugin_Sample
